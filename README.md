@@ -5,11 +5,11 @@
 3.	This  project aims to demonstrate the power of advanced analytics in optimizing various facets of banking operations, ultimately contributing to the overall success and sustainability of the financial institution
 
 
-**NAME : Guru Ragavendar**
-
-**BATCH : MDE88**
-
-**Capstone Final Guvi PROJECT**
+  **NAME : Guru Ragavendar**
+  
+  **BATCH : MDE88**
+  
+  **Capstone Final Guvi PROJECT**
 
 ## Approach ##
 
