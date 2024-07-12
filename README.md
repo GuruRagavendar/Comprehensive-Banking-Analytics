@@ -1,4 +1,4 @@
-# Comprehensive-Banking-Analytics
+# Comprehensive Banking Analytics
 
 1.	The objective of this project is to leverage advanced data analytics techniques, including classification, regression, and clustering, to extract valuable insights and enhance decision-making processes within the banking sector.
 2.	The project aims to address various aspects of banking operations, such as customer segmentation, credit risk assessment, and performance prediction.
